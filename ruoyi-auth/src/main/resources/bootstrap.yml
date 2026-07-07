@@ -17,7 +17,7 @@ spring:
         server-addr: nacos-external:8848
       config:
         # 配置中心地址
-        server-addr: nacos-external1:8848
+        server-addr: nacos-external:8848
         # 配置文件格式
         file-extension: yml
         # 共享配置
